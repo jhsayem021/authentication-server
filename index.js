@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json());
 
 // DB_USER = DBUSER1
-// DB_PASS = A53bhMKodO74iId1
+// DB_PASS = 5WS590aacIabDi31
 
 // Mongodb Connection
 
